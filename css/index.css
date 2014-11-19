@@ -118,7 +118,7 @@ header {
 
 footer {
   background: url(http://images2.fanpop.com/images/photos/5400000/Mushroom-Wallpaper-super-mario-bros-5431067-1024-1024.jpg) no-repeat center; 
-  -webkit-backgrhttp://bound-size: cover;
+  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
